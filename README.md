@@ -1,5 +1,5 @@
-# FUTURE-WORD-PREDICATION
+# NEXT-WORD-PREDICTION
 
-Given a set of book predict the next 4 words from given words using LSTM from scratch
+Predict the next 4 words from given words using Bi-directional LSTM with Attention mechanism.
 
 Set of books were taken from :- https://www.gutenberg.org
